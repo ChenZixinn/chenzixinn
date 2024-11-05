@@ -33,6 +33,6 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="54%" height="228px" src="https://github-readme-stats.vercel.app/api?username=chenzixinn&show_icons=true&theme=vue" />
-	<img width="42%" height="228px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=vue&utcOffset=0" />
+	<img height="228px" src="https://github-readme-stats.vercel.app/api?username=chenzixinn&show_icons=true&theme=vue" />
+	<img height="228px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=vue&utcOffset=0" />
 </p>
