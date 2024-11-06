@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TzuxinChen
 - 👀 I love coding💻
 - 🌱 I’m currently focused on AI🤖
-- 🏙️ I'm based in Shenzhen,China
+- 🏙️ I'm based in Shenzhen,China📍
 - 📫 How to reach me -- tzuxinchen@gmail.com
 
 
