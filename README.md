@@ -30,17 +30,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
-
 ## 👨🏻‍💻 Laptop in use 
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenzixinn&theme=vue"/>
-</p>
-
 ## 📟 GitHub Stats
-<p align="center">
-	<img width="42%" height="180px" src="https://github-readme-stats.vercel.app/api?username=chenzixinn&show_icons=true&theme=vue" />
-	<img width="42%" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenzixinn&theme=vue&utcOffset=8" />
-</p>
+![Stats](https://stats.quira.sh/ChenZixinn/github?theme=dark)
+
