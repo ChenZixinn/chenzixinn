@@ -31,6 +31,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
 ## 👨🏻‍💻 Laptop in use 
-<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2021-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_M4_Pro-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
 
